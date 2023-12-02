@@ -14,6 +14,7 @@ import path from 'path';
 import jwt from 'jsonwebtoken';
 import Team from './backend/models/teamModel.js';
 
+
 const __dirname = path.resolve();
 
 console.log(__dirname);
