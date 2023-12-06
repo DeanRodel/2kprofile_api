@@ -41,7 +41,7 @@ var allowedOrigins = [
   '44.227.217.144',
   'https://twokprofile2.onrender.com'
 ];
-
+   
 app.use(morgan('combined'));
 app.use(express.json());
 app.use(
