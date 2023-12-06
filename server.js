@@ -35,7 +35,11 @@ var allowedOrigins = [
   'https://www.epleyer.gg',
   'https://epleyer.gg',
   'https://billing.stripe.com',
-  'https://2kprofile.com'
+  'https://2kprofile.com',
+'100.20.92.101',
+'44.225.181.72',
+'44.227.217.144',
+	'https://twokprofile2.onrender.com'
 ];
 
 app.use(morgan('combined'));
