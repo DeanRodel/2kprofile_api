@@ -39,7 +39,7 @@ var allowedOrigins = [
   '100.20.92.101',
   '44.225.181.72',
   '44.227.217.144',
-  'https://twokprofile2.onrender.com'
+   'https://twokprofile2.onrender.com'
 ];
    
 app.use(morgan('combined'));
